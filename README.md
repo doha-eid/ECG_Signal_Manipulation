@@ -21,7 +21,12 @@
 | VLF            |     LF   |   HF  | lF/HF | LF norm  | HF norm |  
 | :-----:        |   :---:  | :---: | :---: |  :---:   | :---:   |
 
-
+### Feature Selection Using:
+- Information gain
+- Wrapper method
+- Intrinsic embedded method
+### Dimensionality reduction Using:
+LDA
 
 
 
