@@ -11,10 +11,14 @@
 
 ## Information
 - This project is to extract features from ecg signal and make feature selection.
+### Feature extraction
 - The time domain features :
 
 | RR mean        |  RMSSD   | SDNN | NNxx | PNNxx |Mean HR |  Min HR| Max HR|
 | :-----:        |   :---:  | :---:| :---:| :---: | :---:  | :---:  | :---: |
+- The Frequency domain features :
+| VLF            | LF       | HF   | lF/HF| LF norm |HF norm |  
+| :-----:        |   :---:  | :---:| :---:| :---:   | :---:  |
 
 
 
