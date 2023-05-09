@@ -17,6 +17,7 @@
 | RR mean        |  RMSSD   | SDNN | NNxx | PNNxx |Mean HR |  Min HR| Max HR|
 | :-----:        |   :---:  | :---:| :---:| :---: | :---:  | :---:  | :---: |
 - The Frequency domain features :
+
 | VLF            |     LF   |   HF  | lF/HF | LF norm  | HF norm |  
 | :-----:        |   :---:  | :---: | :---: |  :---:   | :---:   |
 
