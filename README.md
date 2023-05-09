@@ -13,14 +13,10 @@
 - This project is to extract features from ecg signal and make feature selection.
 - The time domain features :
 
-| RR mean   |RMSSD|SDNN | NNxx |PNNxx|Mean HR |  Min HR| Max HR|
+| RR mean        |  RMSSD   | SDNN | NNxx | PNNxx |Mean HR |  Min HR| Max HR|
+| :-----:        |   :---:  | :---:| :---:| :---: | :---:  | :---:  | :---: |
 
 
-
-|  Model         | SVM linear Kernel   | SVM Polynomial Kernel |SVM RBF Kernel |SVM Sigmoid Kernel|
-| :-----:        |        :---:        |      :---:            |      :---:    |        :---:     |
-|  All Features  |      86.667 %       |  78.667%              |      88%      | 82.67%           |
-| Three Features |        85.3%        |   76%                 |     76%       |    76%           |
 
 
 
